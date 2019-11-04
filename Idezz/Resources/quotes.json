@@ -1,0 +1,120 @@
+{
+    "categories": [
+        {
+            "title": "Jókedv",
+            "items": [
+            {
+                "text": "Úgy kellene már a jókedv, egy kis nevetés, mert az élet szép, s nem temetés!",
+                "author": "Poór Péter"
+            },
+            {
+                "text": "Igen méltányos és igazságos dolog, hogy míg a betegségek és a bánat fertőző, semmi sem terjed olyan járványszerű gyorsasággal, mint a nevetés és a jókedv.",
+                "author": "Charles Dickens"
+            },
+            {
+                "text": "Amikor félek, szomorú is vagyok, és a szívem egy nehezék, amikor nem félek, jókedvű vagyok, s a szívem egy buborék.",
+                "author": "Cseh Katalin"
+            },
+            {
+                "text": "Nem szabad elfelejteni, hogy minden félelem, szorongás, keserűség - hívás, s ugyanígy a derű, a jókedv és a bizakodás is. S amit következetesen hívsz, az végül odajön hozzád.",
+                "author": "Popper Péter"
+            },
+            {
+                "text": "A jókedv olyan, mint egy villámlás, amely egy tündöklő pillanatra áttör a felhők sötét takaróján; a vidámság napfényt lop a lélekbe, és azt állandó, véget nem érő nyugalommal tölti meg.",
+                "author": "Joseph Addison"
+            }
+        ],
+            "textColor": "#000000",
+            "backgroundColors": ["#e3f0bb", "#bada55"],
+            "quotationMarkColor": "#6f8233"
+        },
+        {
+            "title": "Bölcselet",
+            "items": [
+            {
+                "text": "Vagy előre lépsz egyet a növekedés irányába, vagy hátrafelé a biztonságba.",
+                "author": "Abraham Maslow"
+            },
+            {
+                "text": "A \"nem minden arany, ami fénylik\" igazságnak a fordítottja is igaz.",
+                "author": "Waszlavik László"
+            },
+            {
+                "text": "Az ember akkor hibázik a legtöbbet, amikor azt akarja bizonyítani, milyen tökéletes.",
+                "author": "Hans-Jürgen Quadbeck-Sieger"
+            },
+            {
+                "text": "Ha teljes sötétség vesz körül, nem tehetsz mást, mint ülsz és vársz, hogy a szemed hozzászokjon.",
+                "author": "Murakami Haruki"
+            },
+            {
+                "text": "A hazugság a gyöngék fegyvere.",
+                "author": "Jókai Mór"
+            },
+            {
+                "text": "Ember csak az, aki felnőtt korában is gyerek marad!",
+                "author": "Erich Kästner"
+            }
+        ],
+            "textColor": "#000000",
+            "backgroundColors": ["#ffef99", "#ffd700"],
+            "quotationMarkColor": "#998100"
+        },
+        {
+            "title": "Szeretet",
+            "items": [
+            {
+                "text": "A szeretet csak szeretésnek lehet jutalma.",
+                "author": "Deák Ferenc"
+            },
+            {
+                "text": "Onnan tudod, hogy valaki szeret, hogy az ő társaságában szabadabbnak érzed magad, mint amikor egyedül vagy.",
+                "author": "Jean-Paul Sartre"
+            },
+            {
+                "text": "Az emlékezéshez nem emlék, hanem szeretet kell, s akit szeretünk azt nem felejtjük soha el.",
+                "author": "William Shakespeare"
+            },
+            {
+                "text": "Az élet kockázat, s minél többet szeret az ember, annál több kockázatot vállal.",
+                "author": "Morgan Scott Peck"
+            },
+            {
+                "text": "A szavak nem érnek semmit, elszállnak mint az őszi szél, de a szeretet, ha tiszta szívből fakad, elkíséri az embert, amíg él.",
+                "author": "József Attila"
+            }
+            ],
+            "textColor": "#000000",
+            "backgroundColors": ["#e6c499", "#c16c00"],
+            "quotationMarkColor": "#734000"
+        },
+        {
+            "title": "Boldogság",
+            "items": [
+            {
+                "text": " Az ember csak a saját mennyországában lehet boldog.",
+                "author": "Mark Twain"
+            },
+            {
+                "text": "Úgy döntöttem, hogy boldog leszek, mert az nagyon egészséges. ",
+                "author": "Voltaire"
+            },
+            {
+                "text": "Boldogság az, ha az ember szeret és holmi apró, fortélyos közeledésekkel lopja meg szerelme tárgyát.",
+                "author": "Thomas Mann"
+            },
+            {
+                "text": "Soha ne félj túl boldoggá tenni egy gyereket. A boldogság az a légkör, ahol a szeretet kifejlődik.",
+                "author": "Thomas Bray"
+            },
+            {
+                "text": "Az a legfontosabb, hogy élvezd az életet, hogy boldog légy - ez minden, ami számít.",
+                "author": "Audrey Hepburn"
+            }
+            ],
+            "textColor": "#000000",
+            "backgroundColors": ["#d2b6d1", "#8f498e"],
+            "quotationMarkColor": "#552b55"
+        }
+    ]
+}
