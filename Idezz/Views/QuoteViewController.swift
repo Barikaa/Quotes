@@ -45,6 +45,13 @@ class QuoteViewController: UIViewController {
         setQuote(quote)
     }
     
+    @IBAction func sharePressed(_ sender: Any) {
+        let activityVC = UIActivityViewController(activityItems: ["Mai idézetem: \(textLabel?.text ?? "Nincs idézet)")"], applicationActivities: nil)
+        activityVC.popoverPresentationController?.sourceView = self.view
+        
+        self.present(activityVC, animated: true, completion: nil)
+    }
+    
     private func setQuote(_ quote: Quote?) {
         textLabel.text = quote?.text
         authorLabel.text = quote?.author

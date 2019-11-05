@@ -19,7 +19,7 @@ class ListViewModel {
         let allItems = categories.flatMap {
             return $0.items
         }
-        let allItemsCategory = Category(title: "Napi idézet",
+        let allItemsCategory = Category(title: "Mai idézetem",
                                         items: allItems,
                                         textColor: "#000000",
                                         backgroundColors: ["#e4b0b0", "#bd3b3b"],
