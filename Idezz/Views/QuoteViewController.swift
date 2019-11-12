@@ -17,6 +17,13 @@ class QuoteViewController: UIViewController {
     @IBOutlet var upperQuotationMark: UILabel!
     @IBOutlet var lowerQuotationMark: UILabel!
     
+    var shareText: String {
+        get {
+           return "Mai idézetem: \(String(describing: textLabel.text!))" + "\n\n" + "\(String(describing: authorLabel.text!))"
+        }
+    }
+   
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         let quote = viewModel.randomQuote
@@ -46,7 +53,7 @@ class QuoteViewController: UIViewController {
     }
     
     @IBAction func sharePressed(_ sender: Any) {
-        let activityVC = UIActivityViewController(activityItems: ["Mai idézetem: \(textLabel?.text ?? "Nincs idézet)")"], applicationActivities: nil)
+        let activityVC = UIActivityViewController(activityItems: [shareText], applicationActivities: nil)
         activityVC.popoverPresentationController?.sourceView = self.view
         
         self.present(activityVC, animated: true, completion: nil)
